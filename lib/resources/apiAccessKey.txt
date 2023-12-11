@@ -1,0 +1,2 @@
+0490cab6b3154962a6de62c40415538e
+https://newsapi.org/v2/top-headlines?country=us&apiKey=0490cab6b3154962a6de62c40415538e
