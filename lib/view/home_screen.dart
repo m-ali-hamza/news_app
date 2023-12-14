@@ -166,6 +166,8 @@ class _HomeScreenState extends State<HomeScreen> {
                                           const Icon(
                                             Icons.error_outline,
                                             color: Colors.red,
+                                            size: 60,
+
                                           )),
                                 ),
                               ),

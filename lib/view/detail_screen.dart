@@ -50,9 +50,12 @@ class DetailScreen extends StatelessWidget {
                           color: Colors.blue,
                           size: 50,
                         ),
-                    errorWidget: (context, url, error) => const Icon(
-                          Icons.error_outline,
-                          color: Colors.red,
+                    errorWidget: (context, url, error) => const Center(
+                          child: Icon(
+                            Icons.error_outline,
+                            color: Colors.red,
+                            size: 60,
+                          ),
                         )),
               ),
             ),
